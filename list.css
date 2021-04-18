@@ -30,4 +30,5 @@ html, body {
     margin: 0;
     cursor: pointer;
     font-size: 20px;
+    list-style-type: square;
 }
